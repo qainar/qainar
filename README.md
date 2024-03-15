@@ -17,4 +17,4 @@ Welcome to my GitHub profile! I'm Qainar, a second-year student at Turan Univers
 For a comprehensive list of my projects, please visit https://github.com/qainar.
 
 ## Contact Me
-Feel free to reach out to me through [email](kainaraskarov2002@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/qainar-umirbekov-571736245). Let's collaborate and build amazing things together!
+Feel free to reach out to me through kainaraskarov2002@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/qainar-umirbekov-571736245). Let's collaborate and build amazing things together!
